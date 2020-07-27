@@ -26,7 +26,7 @@ This system works at realtime providing signal outputs of people who are abiding
 
 Also video is stored in realtime to be monitored.
 
-# Detailed explanation on the Future State of your solution.
+# Detailed explanation on the Future State of solution.
 
 REALTIME APPLICATION CAN BE USED IN PUBLIC PLACES SUCH AS OFFICES,MARKETS,AIRPORTS ETC. WHERE SOCIAL DISTANCING AND PROPERLY MASK WEARING IS MANDATORY.
 Fast in deployment with any external source such as CCTV or IOT
