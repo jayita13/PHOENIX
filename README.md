@@ -1,8 +1,12 @@
 # PHOENIX
+
 SOCIAL DISTANCING AND FACE MASK DETECTOR
+
 USING COMPUTER VISION AND DEEP LEARNING TO PREDICT FACE MASKS WEARING/NOT AND SOCIAL DISTANCING ABIDING/VIOLATING
+
 BASED ON TRAINED MODEL TO DETECT FACE MASKS AND SOCIAL DISTANCING USING YOLOV3 MODEL
-Download yolov3 weights from the link : https://pjreddie.com/media/files/yolov3.weights
+
+# Download yolov3 weights from the link : https://pjreddie.com/media/files/yolov3.weights
 
 
  
