@@ -8,6 +8,21 @@ BASED ON TRAINED MODEL TO DETECT FACE MASKS AND SOCIAL DISTANCING USING YOLOV3 M
 
 # Download yolov3 weights from the link : https://pjreddie.com/media/files/yolov3.weights
 
+# Dependencies
+$ pip install tensorflow
+
+$ pip install Tkinter
+
+$ pip install opencv-python
+
+$ pip install keras
+
+$ pip install Pillow
+
+$ pip install imutils
+
+$ pip install numpy
+
 # Approach has 3 parts :
 1.Social distancing measurement. 
 
